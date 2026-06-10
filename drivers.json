@@ -1,0 +1,12 @@
+[
+  { "name": "Ravi Kumar",    "lat": 12.9355, "lng": 77.6248 },
+  { "name": "Sunita Devi",   "lat": 12.9401, "lng": 77.6301 },
+  { "name": "Arjun Nair",    "lat": 12.9180, "lng": 77.6110 },
+  { "name": "Priya Sharma",  "lat": 12.9360, "lng": 77.6260 },
+  { "name": "Mohammed Iqbal","lat": 12.9500, "lng": 77.6400 },
+  { "name": "Deepa Menon",   "lat": 12.9348, "lng": 77.6240 },
+  { "name": "Kiran Reddy",   "lat": 12.9100, "lng": 77.6050 },
+  { "name": "Anita Joshi",   "lat": 12.9370, "lng": 77.6255 },
+  { "name": "Suresh Babu",   "lat": 12.9600, "lng": 77.6500 },
+  { "name": "Fatima Begum",  "lat": 12.9340, "lng": 77.6230 }
+]
